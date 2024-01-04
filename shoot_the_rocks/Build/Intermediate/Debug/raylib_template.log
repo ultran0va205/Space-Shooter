@@ -1,0 +1,12 @@
+﻿  Game.cpp
+  main.cpp
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(45,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(45,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(45,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(45,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(58,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(59,107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(60,34): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Source\main.cpp(61,35): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+  raylib_template.vcxproj -> C:\Users\aayus\uni\programming\C++ 3\shoot_the_rocks\Build\Debug\raylib_template.exe
